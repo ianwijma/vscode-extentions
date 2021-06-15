@@ -17,6 +17,8 @@ Write a small story why I picked certain items
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal)
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+- [Add jsdoc comments](https://marketplace.visualstudio.com/items?itemName=stevencl.addDocComments)
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - 
 
 ## Optional
